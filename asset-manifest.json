@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movie-app-netfix-pro/static/css/main.ce98cd78.chunk.css",
+    "main.js": "/movie-app-netfix-pro/static/js/main.db9965ed.chunk.js",
+    "main.js.map": "/movie-app-netfix-pro/static/js/main.db9965ed.chunk.js.map",
+    "runtime-main.js": "/movie-app-netfix-pro/static/js/runtime-main.f143e77f.js",
+    "runtime-main.js.map": "/movie-app-netfix-pro/static/js/runtime-main.f143e77f.js.map",
+    "static/js/2.4ae68704.chunk.js": "/movie-app-netfix-pro/static/js/2.4ae68704.chunk.js",
+    "static/js/2.4ae68704.chunk.js.map": "/movie-app-netfix-pro/static/js/2.4ae68704.chunk.js.map",
+    "index.html": "/movie-app-netfix-pro/index.html",
+    "precache-manifest.d736ec7829fa08f9bf67b7fa7315c6a7.js": "/movie-app-netfix-pro/precache-manifest.d736ec7829fa08f9bf67b7fa7315c6a7.js",
+    "service-worker.js": "/movie-app-netfix-pro/service-worker.js",
+    "static/css/main.ce98cd78.chunk.css.map": "/movie-app-netfix-pro/static/css/main.ce98cd78.chunk.css.map",
+    "static/js/2.4ae68704.chunk.js.LICENSE.txt": "/movie-app-netfix-pro/static/js/2.4ae68704.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f143e77f.js",
+    "static/js/2.4ae68704.chunk.js",
+    "static/css/main.ce98cd78.chunk.css",
+    "static/js/main.db9965ed.chunk.js"
+  ]
+}
